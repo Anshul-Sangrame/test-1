@@ -2,5 +2,5 @@
 test-1
 origin
 sdb
-locdal
+local
 saf
